@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Exam ExamID="DT01">
+  <Time>225</Time>
+  <Question QuestID="CH02">
+    <Topic>ComputerHardware</Topic>
+    <Content>The new ___ integrates the function of a processor, memory and video on a single chip.</Content>
+    <LstOption count="4">
+      <Option>Micro processor</Option>
+      <Option>Power processor</Option>
+      <Option>Chip processor</Option>
+      <Option>System on a chip</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CI02">
+    <Topic>ComputerInformation</Topic>
+    <Content>Microcomputer hardware consists of three basic categories of physical equipment _____</Content>
+    <LstOption count="4">
+      <Option>Keyboard, monitor, hard drive</Option>
+      <Option>System unit, input/output, memory</Option>
+      <Option>System unit, primary storage, secondary storage</Option>
+      <Option>System unit, input/output, secondary storage</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CH03">
+    <Topic>ComputerHardware</Topic>
+    <Content>The box that contains the central electronic components of the computer is the</Content>
+    <LstOption count="4">
+      <Option>Motherboard</Option>
+      <Option>Input device</Option>
+      <Option>System unit</Option>
+      <Option>Peripheral</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="OS04">
+    <Topic>OperatingSystem</Topic>
+    <Content>When a interrupt occurs, an operating system</Content>
+    <LstOption count="4">
+      <Option>Always changes state of interrupted process after processing the interrupt</Option>
+      <Option>May change state of interrupted process to blocked and schedule another process</Option>
+      <Option>Ignores the interrupt</Option>
+      <Option>May change state of interrupted process to blocked and schedule another process</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CI03">
+    <Topic>ComputerInformation</Topic>
+    <Content>A _____ is a small hand-held computer that helps you surf the Web and perform simple tasks.</Content>
+    <LstOption count="4">
+      <Option>Minicomputer</Option>
+      <Option>Notebook computer</Option>
+      <Option>Mobile phone</Option>
+      <Option>Desktop computer</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CI04">
+    <Topic>ComputerInformation</Topic>
+    <Content>All computers must have</Content>
+    <LstOption count="4">
+      <Option>A virus checking program</Option>
+      <Option>An attached printer</Option>
+      <Option>A word processing software</Option>
+      <Option>An operating system</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="OS05">
+    <Topic>OperatingSystem</Topic>
+    <Content>The process scheduler in the processor management unit</Content>
+    <LstOption count="4">
+      <Option>Selects a job to run</Option>
+      <Option>Selects a process to run</Option>
+      <Option>Co-ordinates the process synchronization</Option>
+      <Option>Gives all submitted jobs to the job scheduler</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="OS02">
+    <Topic>OperatingSystem</Topic>
+    <Content>The operating system manages ____</Content>
+    <LstOption count="4">
+      <Option>Memory</Option>
+      <Option>Processor</Option>
+      <Option>Disks and I/O devices</Option>
+      <Option>All of these</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CH01">
+    <Topic>ComputerHardware</Topic>
+    <Content>A source program is the program written in ____ language.</Content>
+    <LstOption count="4">
+      <Option>Symbolic</Option>
+      <Option>English</Option>
+      <Option>High level</Option>
+      <Option>Machine</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="DC01">
+    <Topic>DataCommunication</Topic>
+    <Content>The OSI model consists of ___ layers.</Content>
+    <LstOption count="4">
+      <Option>Five</Option>
+      <Option>Seven</Option>
+      <Option>Nine</Option>
+      <Option>Eight</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="OS03">
+    <Topic>OperatingSystem</Topic>
+    <Content>Time sharing systems must also provide</Content>
+    <LstOption count="4">
+      <Option>Both 2 answers above</Option>
+      <Option>None of these</Option>
+      <Option>Off line system</Option>
+      <Option>Online system</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="OS06">
+    <Topic>OperatingSystem</Topic>
+    <Content>Turnaround time is defined as</Content>
+    <LstOption count="4">
+      <Option>Delay between job submission and job completion</Option>
+      <Option>Waiting time</Option>
+      <Option>Both 2 answers above</Option>
+      <Option>None of these</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="OS01">
+    <Topic>OperatingSystem</Topic>
+    <Content>To execute more than one program at a time, the system software used must be capable of ____</Content>
+    <LstOption count="4">
+      <Option>Word processing</Option>
+      <Option>Virtual memory</Option>
+      <Option>Multi-tasking</Option>
+      <Option>Coupling</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CI01">
+    <Topic>ComputerInformation</Topic>
+    <Content>A computer system</Content>
+    <LstOption count="4">
+      <Option>Peripheral devices</Option>
+      <Option>Hardware</Option>
+      <Option>All of these</Option>
+      <Option>Software</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="DC02">
+    <Topic>DataCommunication</Topic>
+    <Content>Something which has easily understood instructions is said to be</Content>
+    <LstOption count="4">
+      <Option>Information</Option>
+      <Option>User friendly</Option>
+      <Option>Icon</Option>
+      <Option>Word processing</Option>
+    </LstOption>
+  </Question>
+</Exam>

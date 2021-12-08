@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LstQuestion>
+	<Question QuestID="DC01">
+		<Topic>DataCommunication</Topic>
+		<Content>The OSI model consists of ___ layers.</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Five</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Seven</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Eight</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Nine</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="DC02">
+		<Topic>DataCommunication</Topic>
+		<Content>Something which has easily understood instructions is said to be</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Information</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Icon</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Word processing</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>User friendly</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="DC03">
+		<Topic>DataCommunication</Topic>
+		<Content>Each computer have a/an ____, and some ____</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Internet Browsers, Document files</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Operating System, Application Programs</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Hard Disk, Programming Programs</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content> Operating system, Tally</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="DC04">
+		<Topic>DataCommunication</Topic>
+		<Content>In ____ computers, computation is carried out with physical quantities such as voltage, length, current, temperature, etc.</Content>
+		<LstOption count="4">
+			<Option isTrue="true">
+				<Content>Analog</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Digital</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Hybrid</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Micro computer</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="DC05">
+		<Topic>DataCommunication</Topic>
+		<Content>In Computer terminology ‘CAD’ is stands for</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Computer and Design</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Computer and Device</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Computer Algorithm in Design</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Computer Aided Design</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="DC06">
+		<Topic>DataCommunication</Topic>
+		<Content>If you use either Telnet or FTP, which is the highest layer you are using to transmit data?</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Application</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Session</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Presentation</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Transport</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="DC07">
+		<Topic>DataCommunication</Topic>
+		<Content>Error detection at the data link level is achieved by</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Equalization</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Bit stuffing</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Hamming codes</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Cyclic redundancy codes</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="DC08">
+		<Topic>DataCommunication</Topic>
+		<Content>Which of the following techniques is used for allocating capacity on a satellite channel using fixed-assignment FDM?</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Frequency-shift keying</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Frequency modulation</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Frequency-division multiple access</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Amplitude modulation</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="DC09">
+		<Topic>DataCommunication</Topic>
+		<Content>The connection between your computer at home and your local ISP is called _____</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>The backbone</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>The home page</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>The home stretch</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>The last mile</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="DC10">
+		<Topic>DataCommunication</Topic>
+		<Content>Demodulation is the process of</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Dividing the high-speed signals into frequency bands</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Converting digital signals to analog signals</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Converting analog signals to digital signals</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Combining many low speed channels into one high speed channel</Content>
+			</Option>
+		</LstOption>
+	</Question>
+</LstQuestion>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LstQuestion>
+	<Question QuestID="CI01">
+		<Topic>ComputerInformation</Topic>
+		<Content>A computer system</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Software</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Hardware</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Peripheral devices</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>All of these</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CI02">
+		<Topic>ComputerInformation</Topic>
+		<Content>Microcomputer hardware consists of three basic categories of physical equipment _____</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>System unit, primary storage, secondary storage</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>System unit, input/output, memory</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>System unit, input/output, secondary storage</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Keyboard, monitor, hard drive</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CI03">
+		<Topic>ComputerInformation</Topic>
+		<Content>A _____ is a small hand-held computer that helps you surf the Web and perform simple tasks.</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Minicomputer</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Notebook computer</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Mobile phone</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Desktop computer</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CI04">
+		<Topic>ComputerInformation</Topic>
+		<Content>All computers must have</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>A virus checking program</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>An attached printer</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>An operating system</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>A word processing software</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CI05">
+		<Topic>ComputerInformation</Topic>
+		<Content>Which is not the example of special purpose computer?</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Multimedia computer</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Automatic Aircraft Landing</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Word Processor</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>All of the above</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CI06">
+		<Topic>ComputerInformation</Topic>
+		<Content>Every computer has a(n) _____; many also have _____</Content>
+		<LstOption count="4">
+			<Option isTrue="true">
+				<Content>Operating system; application programs</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Application programs; a client system</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Operating system; instruction sets</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Operating system; a client system</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CI07">
+		<Topic>ComputerInformation</Topic>
+		<Content>The basic goal of computer process is to convert data into</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Graphs</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Tables</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Files</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Information</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CI08">
+		<Topic>ComputerInformation</Topic>
+		<Content>Personal computers can be connected together to form a</Content>
+		<LstOption count="4">
+			<Option isTrue="true">
+				<Content>Network</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Server</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Supercomputer</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Enterprise</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CI09">
+		<Topic>ComputerInformation</Topic>
+		<Content>Super computer developed by Indian scientists</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Compaq Presario</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Cray YMP</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Super301</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Param</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CI10">
+		<Topic>ComputerInformation</Topic>
+		<Content>Ctrl, shift and alt are called _____ keys.</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Alphanumeric</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Adjustment</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Function</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Modifier</Content>
+			</Option>
+		</LstOption>
+	</Question>
+</LstQuestion>

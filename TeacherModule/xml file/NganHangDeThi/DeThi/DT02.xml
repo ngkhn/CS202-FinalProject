@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Exam ExamID="DT02">
+  <Time>225</Time>
+  <Question QuestID="CH04">
+    <Topic>ComputerHardware</Topic>
+    <Content>The CPU comprises of Control unit, Memory and ____ unit.</Content>
+    <LstOption count="4">
+      <Option>Microprocessor</Option>
+      <Option>Output</Option>
+      <Option>Input</Option>
+      <Option>Arithmetic/Logic</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="OS01">
+    <Topic>OperatingSystem</Topic>
+    <Content>To execute more than one program at a time, the system software used must be capable of ____</Content>
+    <LstOption count="4">
+      <Option>Multi-tasking</Option>
+      <Option>Word processing</Option>
+      <Option>Coupling</Option>
+      <Option>Virtual memory</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="OS02">
+    <Topic>OperatingSystem</Topic>
+    <Content>The operating system manages ____</Content>
+    <LstOption count="4">
+      <Option>Memory</Option>
+      <Option>Disks and I/O devices</Option>
+      <Option>All of these</Option>
+      <Option>Processor</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="DC03">
+    <Topic>DataCommunication</Topic>
+    <Content>Each computer have a/an ____, and some ____</Content>
+    <LstOption count="4">
+      <Option>Internet Browsers, Document files</Option>
+      <Option> Operating system, Tally</Option>
+      <Option>Hard Disk, Programming Programs</Option>
+      <Option>Operating System, Application Programs</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CH05">
+    <Topic>ComputerHardware</Topic>
+    <Content>A microprocessor used in</Content>
+    <LstOption count="4">
+      <Option>Personal computer</Option>
+      <Option>Mini computer</Option>
+      <Option>ENIAC</Option>
+      <Option>Mainframe computer</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="DC04">
+    <Topic>DataCommunication</Topic>
+    <Content>In ____ computers, computation is carried out with physical quantities such as voltage, length, current, temperature, etc.</Content>
+    <LstOption count="4">
+      <Option>Micro computer</Option>
+      <Option>Digital</Option>
+      <Option>Analog</Option>
+      <Option>Hybrid</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="DC02">
+    <Topic>DataCommunication</Topic>
+    <Content>Something which has easily understood instructions is said to be</Content>
+    <LstOption count="4">
+      <Option>Word processing</Option>
+      <Option>Icon</Option>
+      <Option>User friendly</Option>
+      <Option>Information</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CI02">
+    <Topic>ComputerInformation</Topic>
+    <Content>Microcomputer hardware consists of three basic categories of physical equipment _____</Content>
+    <LstOption count="4">
+      <Option>Keyboard, monitor, hard drive</Option>
+      <Option>System unit, input/output, memory</Option>
+      <Option>System unit, input/output, secondary storage</Option>
+      <Option>System unit, primary storage, secondary storage</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CH02">
+    <Topic>ComputerHardware</Topic>
+    <Content>The new ___ integrates the function of a processor, memory and video on a single chip.</Content>
+    <LstOption count="4">
+      <Option>System on a chip</Option>
+      <Option>Micro processor</Option>
+      <Option>Chip processor</Option>
+      <Option>Power processor</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="DC01">
+    <Topic>DataCommunication</Topic>
+    <Content>The OSI model consists of ___ layers.</Content>
+    <LstOption count="4">
+      <Option>Nine</Option>
+      <Option>Five</Option>
+      <Option>Seven</Option>
+      <Option>Eight</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CH06">
+    <Topic>ComputerHardware</Topic>
+    <Content>Which of the following is not an example of hardware?</Content>
+    <LstOption count="4">
+      <Option>Monitor</Option>
+      <Option>Printer</Option>
+      <Option>Excel</Option>
+      <Option>Mouse</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CH03">
+    <Topic>ComputerHardware</Topic>
+    <Content>The box that contains the central electronic components of the computer is the</Content>
+    <LstOption count="4">
+      <Option>System unit</Option>
+      <Option>Input device</Option>
+      <Option>Motherboard</Option>
+      <Option>Peripheral</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="OS03">
+    <Topic>OperatingSystem</Topic>
+    <Content>Time sharing systems must also provide</Content>
+    <LstOption count="4">
+      <Option>Off line system</Option>
+      <Option>None of these</Option>
+      <Option>Online system</Option>
+      <Option>Both 2 answers above</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CI01">
+    <Topic>ComputerInformation</Topic>
+    <Content>A computer system</Content>
+    <LstOption count="4">
+      <Option>Software</Option>
+      <Option>Peripheral devices</Option>
+      <Option>All of these</Option>
+      <Option>Hardware</Option>
+    </LstOption>
+  </Question>
+  <Question QuestID="CH01">
+    <Topic>ComputerHardware</Topic>
+    <Content>A source program is the program written in ____ language.</Content>
+    <LstOption count="4">
+      <Option>English</Option>
+      <Option>Symbolic</Option>
+      <Option>High level</Option>
+      <Option>Machine</Option>
+    </LstOption>
+  </Question>
+</Exam>

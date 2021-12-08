@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LstQuestion>
+	<Question QuestID="OS01">
+		<Topic>OperatingSystem</Topic>
+		<Content>To execute more than one program at a time, the system software used must be capable of ____</Content>
+		<LstOption count="4">
+			<Option isTrue="true">
+				<Content>Multi-tasking</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Coupling</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Virtual memory</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Word processing</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="OS02">
+		<Topic>OperatingSystem</Topic>
+		<Content>The operating system manages ____</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Disks and I/O devices</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Processor</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Memory</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>All of these</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="OS03">
+		<Topic>OperatingSystem</Topic>
+		<Content>Time sharing systems must also provide</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Off line system</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Online system</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Both 2 answers above</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>None of these</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="OS04">
+		<Topic>OperatingSystem</Topic>
+		<Content>When a interrupt occurs, an operating system</Content>
+		<LstOption count="4">
+			<Option isTrue="true">
+				<Content>May change state of interrupted process to blocked and schedule another process</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>May change state of interrupted process to blocked and schedule another process</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Always changes state of interrupted process after processing the interrupt</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Ignores the interrupt</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="OS05">
+		<Topic>OperatingSystem</Topic>
+		<Content>The process scheduler in the processor management unit</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Co-ordinates the process synchronization</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Selects a process to run</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Selects a job to run</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Gives all submitted jobs to the job scheduler</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="OS06">
+		<Topic>OperatingSystem</Topic>
+		<Content>Turnaround time is defined as</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Waiting time</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Delay between job submission and job completion</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Both 2 answers above</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>None of these</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="OS07">
+		<Topic>OperatingSystem</Topic>
+		<Content>Restrictive type of real time system is called</Content>
+		<LstOption count="4">
+			<Option isTrue="true">
+				<Content>Hard real time system</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Soft real time system</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Both 2 answers above</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>None of these</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="OS08">
+		<Topic>OperatingSystem</Topic>
+		<Content>Special software to create a job queue is called</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Linkage editor</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Interpreter</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Spooler</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Drive</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="OS09">
+		<Topic>OperatingSystem</Topic>
+		<Content>Real time systems are</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Used for real time interactive users</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Used for program analysis</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Used for monitoring events as they occur</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Primarily used on mainframe computers</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="OS10">
+		<Topic>OperatingSystem</Topic>
+		<Content>The major operating system used in computer is</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>UNIX</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>OS/2</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>MS-DOS</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>All of these</Content>
+			</Option>
+		</LstOption>
+	</Question>
+</LstQuestion>

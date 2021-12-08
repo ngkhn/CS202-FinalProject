@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LstQuestion>
+	<Question QuestID="CH01">
+		<Topic>ComputerHardware</Topic>
+		<Content>A source program is the program written in ____ language.</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>English</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Symbolic</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>High level</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Machine</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CH02">
+		<Topic>ComputerHardware</Topic>
+		<Content>The new ___ integrates the function of a processor, memory and video on a single chip.</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Chip processor</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>System on a chip</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Power processor</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Micro processor</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CH03">
+		<Topic>ComputerHardware</Topic>
+		<Content>The box that contains the central electronic components of the computer is the</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Input device</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Peripheral</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>System unit</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Motherboard</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CH04">
+		<Topic>ComputerHardware</Topic>
+		<Content>The CPU comprises of Control unit, Memory and ____ unit.</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Output</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Input</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Microprocessor</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Arithmetic/Logic</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CH05">
+		<Topic>ComputerHardware</Topic>
+		<Content>A microprocessor used in</Content>
+		<LstOption count="4">
+			<Option isTrue="true">
+				<Content>Personal computer</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>ENIAC</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Mini computer</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Mainframe computer</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CH06">
+		<Topic>ComputerHardware</Topic>
+		<Content>Which of the following is not an example of hardware?</Content>
+		<LstOption count="4">
+			<Option isTrue="true">
+				<Content>Excel</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Monitor</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Printer</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Mouse</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CH07">
+		<Topic>ComputerHardware</Topic>
+		<Content>To locate a data item for storage is</Content>
+		<LstOption count="4">
+			<Option isTrue="true">
+				<Content>Fetch</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Field</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Feed</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Database</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CH08">
+		<Topic>ComputerHardware</Topic>
+		<Content>A device that is connected to the motherboard is ___</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>must connect using ribbon cable</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>called a peripheral device</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>called an adjunct device</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>called an external device</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CH09">
+		<Topic>ComputerHardware</Topic>
+		<Content>Data division is the third division of a ___ program.</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>FORTH</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>COBOL</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>PASCAL</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>BASIC</Content>
+			</Option>
+		</LstOption>
+	</Question>
+	<Question QuestID="CH10">
+		<Topic>ComputerHardware</Topic>
+		<Content>The indentations on CDs and DVDs are called</Content>
+		<LstOption count="4">
+			<Option isTrue="false">
+				<Content>Lands</Content>
+			</Option>
+			<Option isTrue="true">
+				<Content>Tracks</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Clusters</Content>
+			</Option>
+			<Option isTrue="false">
+				<Content>Pits</Content>
+			</Option>
+		</LstOption>
+	</Question>
+</LstQuestion>
